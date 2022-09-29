@@ -1,3 +1,5 @@
+package practiceproblems;
+
 public class greater_of_2 {
     public static void main (String[]args)
     {

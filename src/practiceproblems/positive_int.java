@@ -1,3 +1,5 @@
+package practiceproblems;
+
 public class positive_int {
     public static void main (String[]args)
     {

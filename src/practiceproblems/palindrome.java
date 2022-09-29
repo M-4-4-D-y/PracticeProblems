@@ -1,3 +1,5 @@
+package practiceproblems;
+
 import java.util.Scanner;
 
 public class palindrome {

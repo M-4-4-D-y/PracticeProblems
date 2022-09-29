@@ -1,3 +1,5 @@
+package practiceproblems;
+
 public class range {
 
     public static void main(String[] args) {
