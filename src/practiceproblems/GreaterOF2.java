@@ -1,6 +1,6 @@
 package practiceproblems;
 
-public class greater_of_2 {
+public class GreaterOF2 {
     public static void main (String[]args)
     {
 

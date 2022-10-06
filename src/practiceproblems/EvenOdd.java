@@ -1,6 +1,6 @@
 package practiceproblems;
 
-public class even_odd
+public class EvenOdd
 {
     public static void main (String[]args)
         {

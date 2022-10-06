@@ -1,6 +1,6 @@
 package practiceproblems;
 
-public class positive_int {
+public class PositiveInt {
     public static void main (String[]args)
     {
         int num = -4;

@@ -2,7 +2,7 @@ package practiceproblems;
 
 import java.util.Scanner;
 
-public class leap_year {
+public class LeapYear {
     public static void main (String[]args)
     {
         Scanner sc=new Scanner(System.in);

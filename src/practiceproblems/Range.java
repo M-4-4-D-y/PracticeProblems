@@ -1,6 +1,6 @@
 package practiceproblems;
 
-public class range {
+public class Range {
 
     public static void main(String[] args) {
         int num1 = 4;
